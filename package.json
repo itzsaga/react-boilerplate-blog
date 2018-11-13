@@ -40,7 +40,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "react": "^16.5.2",
+    "react": "^16.6.3",
     "react-dom": "^16.5.2"
   }
 }
