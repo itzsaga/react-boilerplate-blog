@@ -12,7 +12,9 @@
     "test": "jest ./test"
   },
   "jest": {
-    "setupFilesAfterEnv": "./test/enzyme.setup.js"
+    "setupFilesAfterEnv": [
+      "./test/enzyme.setup.js"
+    ]
   },
   "author": "",
   "license": "ISC",
